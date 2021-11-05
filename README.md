@@ -1,1 +1,2 @@
-# git-group-practice
+node_modules
+DS_Store
